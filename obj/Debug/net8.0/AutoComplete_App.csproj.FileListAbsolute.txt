@@ -27,4 +27,7 @@ D:\Code\NET\AutoComplete_App\obj\Debug\net8.0\refint\AutoComplete_App.dll
 D:\Code\NET\AutoComplete_App\obj\Debug\net8.0\AutoComplete_App.pdb
 D:\Code\NET\AutoComplete_App\obj\Debug\net8.0\AutoComplete_App.genruntimeconfig.cache
 D:\Code\NET\AutoComplete_App\obj\Debug\net8.0\ref\AutoComplete_App.dll
-D:\Code\NET\AutoComplete_App\bin\Debug\net8.0\countries.json
+D:\Code\NET\AutoComplete_App\bin\Debug\net8.0\Data\countries.json
+D:\Code\NET\AutoComplete_App\bin\Debug\net8.0\Data\seaports.json
+D:\Code\NET\AutoComplete_App\bin\Debug\net8.0\Data\inventory.json
+D:\Code\NET\AutoComplete_App\bin\Debug\net8.0\Data\taxes.json

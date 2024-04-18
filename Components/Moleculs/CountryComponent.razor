@@ -1,0 +1,10 @@
+﻿@using AutoComplete_App.Components.Atoms
+@rendermode InteractiveServer
+
+<FormLabel @bind-Country="country" @bind-SeaPort="seaports"/>
+<CategoryLabel></CategoryLabel>
+
+@code {
+    string country = "";
+    string seaports = "";
+}

@@ -3,72 +3,104 @@
   "WorkspaceRootPath": "D:\\Code\\NET\\AutoComplete_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\atoms\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\atoms\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\atoms\\categorylabel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\atoms\\categorylabel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\atoms\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\atoms\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\data\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:data\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\pages\\api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\pages\\api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\data\\taxes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:data\\taxes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\services\\callapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:services\\callapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\models\\taxprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:models\\taxprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\pages\\api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\pages\\api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\atoms\\formlabel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\atoms\\formlabel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\data\\seaports.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:data\\seaports.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\autocomplete_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:autocomplete_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\atoms\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\atoms\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\models\\seaport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:models\\seaport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\data\\inventory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:data\\inventory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\moleculs\\countrycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:components\\moleculs\\countrycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\autocomplete_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|solutionrelative:autocomplete_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B3C193A-80EA-4D85-8C27-5E86DE2EDF00}|AutoComplete_App.csproj|d:\\code\\net\\autocomplete_app\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -86,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,20 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form.razor",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\Form.razor",
-              "RelativeDocumentMoniker": "Components\\Atoms\\Form.razor",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\Form.razor",
-              "RelativeToolTip": "Components\\Atoms\\Form.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T09:41:11.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Error.razor",
               "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
@@ -115,115 +134,57 @@
               "RelativeToolTip": "Components\\Pages\\Error.razor",
               "ViewState": "AQIAAAgAAAAAAAAAAAAuwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:43:29.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:46:26.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "About.razor",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\About.razor",
-              "RelativeDocumentMoniker": "Components\\Atoms\\About.razor",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\About.razor",
-              "RelativeToolTip": "Components\\Atoms\\About.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAiwA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T03:06:45.544Z",
+              "WhenOpened": "2024-04-18T02:43:29.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AutoComplete_App.csproj",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\AutoComplete_App.csproj",
-              "RelativeDocumentMoniker": "AutoComplete_App.csproj",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\AutoComplete_App.csproj",
-              "RelativeToolTip": "AutoComplete_App.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T07:14:56.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "Components\\Routes.razor",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Routes.razor",
-              "RelativeToolTip": "Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "FormLabel.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\FormLabel.razor",
+              "RelativeDocumentMoniker": "Components\\Atoms\\FormLabel.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\FormLabel.razor",
+              "RelativeToolTip": "Components\\Atoms\\FormLabel.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:55:36.393Z"
+              "WhenOpened": "2024-04-18T11:55:08.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\_Imports.razor",
-              "RelativeToolTip": "Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:43:33.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "countries.json",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\countries.json",
-              "RelativeDocumentMoniker": "countries.json",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\countries.json",
-              "RelativeToolTip": "countries.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPQAAAABAAAA",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Data\\countries.json",
+              "RelativeDocumentMoniker": "Data\\countries.json",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Data\\countries.json",
+              "RelativeToolTip": "Data\\countries.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-18T08:09:21.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CallApi.cs",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Services\\CallApi.cs",
-              "RelativeDocumentMoniker": "Services\\CallApi.cs",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Services\\CallApi.cs",
-              "RelativeToolTip": "Services\\CallApi.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:18:21.422Z"
+              "DocumentIndex": 0,
+              "Title": "CategoryLabel.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\CategoryLabel.razor",
+              "RelativeDocumentMoniker": "Components\\Atoms\\CategoryLabel.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\CategoryLabel.razor",
+              "RelativeToolTip": "Components\\Atoms\\CategoryLabel.razor",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T14:40:38.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T02:41:01.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Api.razor",
               "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Api.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Api.razor",
               "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Api.razor",
               "RelativeToolTip": "Components\\Pages\\Api.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-18T02:43:24.616Z",
               "EditorCaption": ""
@@ -231,32 +192,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T09:01:00.924Z",
+              "Title": "TaxPrice.cs",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Models\\TaxPrice.cs",
+              "RelativeDocumentMoniker": "Models\\TaxPrice.cs",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Models\\TaxPrice.cs",
+              "RelativeToolTip": "Models\\TaxPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:45:46.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "taxes.json",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Data\\taxes.json",
+              "RelativeDocumentMoniker": "Data\\taxes.json",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Data\\taxes.json",
+              "RelativeToolTip": "Data\\taxes.json",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T07:17:02.342Z",
+              "WhenOpened": "2024-04-18T14:06:08.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "CallApi.cs",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Services\\CallApi.cs",
+              "RelativeDocumentMoniker": "Services\\CallApi.cs",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Services\\CallApi.cs",
+              "RelativeToolTip": "Services\\CallApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:18:21.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "seaports.json",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Data\\seaports.json",
+              "RelativeDocumentMoniker": "Data\\seaports.json",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Data\\seaports.json",
+              "RelativeToolTip": "Data\\seaports.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T12:20:26.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\About.razor",
+              "RelativeDocumentMoniker": "Components\\Atoms\\About.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Atoms\\About.razor",
+              "RelativeToolTip": "Components\\Atoms\\About.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T03:06:45.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "App.razor",
               "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -269,6 +269,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeaPort.cs",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Models\\SeaPort.cs",
+              "RelativeDocumentMoniker": "Models\\SeaPort.cs",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Models\\SeaPort.cs",
+              "RelativeToolTip": "Models\\SeaPort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:10:25.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:44:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:43:21.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "inventory.json",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Data\\inventory.json",
+              "RelativeDocumentMoniker": "Data\\inventory.json",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Data\\inventory.json",
+              "RelativeToolTip": "Data\\inventory.json",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T13:23:46.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\NavMenu.razor",
@@ -277,35 +329,129 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:43:21.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Country.cs",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "Models\\Country.cs",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Models\\Country.cs",
-              "RelativeToolTip": "Models\\Country.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:44:44.378Z"
+              "WhenOpened": "2024-04-18T02:43:21.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:43:21.232Z"
+              "WhenOpened": "2024-04-18T02:43:33.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:46:26.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:26:20.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:55:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T07:17:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CountryComponent.razor",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Moleculs\\CountryComponent.razor",
+              "RelativeDocumentMoniker": "Components\\Moleculs\\CountryComponent.razor",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Components\\Moleculs\\CountryComponent.razor",
+              "RelativeToolTip": "Components\\Moleculs\\CountryComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T09:41:11.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T09:01:00.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AutoComplete_App.csproj",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\AutoComplete_App.csproj",
+              "RelativeDocumentMoniker": "AutoComplete_App.csproj",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\AutoComplete_App.csproj",
+              "RelativeToolTip": "AutoComplete_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T07:14:56.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\NET\\AutoComplete_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:41:01.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
@@ -313,11 +459,12 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-18T02:46:20.847Z"
+              "WhenOpened": "2024-04-18T02:46:20.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "D:\\Code\\NET\\AutoComplete_App\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
@@ -325,7 +472,8 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-18T02:46:23.995Z"
+              "WhenOpened": "2024-04-18T02:46:23.995Z",
+              "EditorCaption": ""
             }
           ]
         }

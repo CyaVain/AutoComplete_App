@@ -11,9 +11,15 @@ namespace AutoComplete_App.Services
     {
         readonly HttpClient client;
         
-        static string fileOutput = @"..\\AutoComplete_App\\countries.json";
+        static string countryFile = @"..\\AutoComplete_App\\Data\\countries.json";
+        static string portFile = @"..\\AutoComplete_App\\Data\\seaports.json";
+        static string inventoryFile = @"..\\AutoComplete_App\\Data\\inventory.json";
+        static string taxFile = @"..\\AutoComplete_App\\Data\\taxes.json";
 
         public Country[] Countries { get; private set; }
+        public SeaPort[] Ports { get; private set; }
+        public Inventory[] Inventories { get; private set; }
+        public TaxPrice[] TaxPrices { get; private set; }
 
         public CallApi(HttpClient httpClient)
         {
@@ -25,15 +31,28 @@ namespace AutoComplete_App.Services
             string url = "https://gist.githubusercontent.com/almost/7748738/raw/575f851d945e2a9e6859fb2308e95a3697bea115/countries.json";
             var response = await client.GetStringAsync(url);
 
-            File.WriteAllText(fileOutput, response);
-
-            await ReadCountry();
+            File.WriteAllText(countryFile, response);
+        }
+        public void ReadCountry()
+        {
+            string json = File.ReadAllText(countryFile);
+            Countries = JsonSerializer.Deserialize<Country[]>(json);
         }
 
-        public async Task ReadCountry()
+        public void ReadPortList()
         {
-            string json = File.ReadAllText(fileOutput);
-            Countries = JsonSerializer.Deserialize<Country[]>(json);
+            string json = File.ReadAllText(portFile);
+            Ports = JsonSerializer.Deserialize<SeaPort[]>(json);
+        }
+        public void ReadInventoryList()
+        {
+            var json = File.ReadAllText(inventoryFile);
+            Inventories = JsonSerializer.Deserialize<Inventory[]>(json);
+        }
+        public void ReadTaxList()
+        {
+            var json = File.ReadAllText(taxFile);
+            TaxPrices = JsonSerializer.Deserialize<TaxPrice[]>(json);
         }
     }
 }

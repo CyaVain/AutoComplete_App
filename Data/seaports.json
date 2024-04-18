@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jurong",
+    "country": "Singapore"
+  },
+  {
+    "name": "Rotterdam",
+    "country": "Netherlands"
+  },
+  {
+    "name": "Shanghai",
+    "country": "China"
+  },
+  {
+    "name": "Busan",
+    "country": "South Korea"
+  },
+  {
+    "name": "Antwerp",
+    "country": "Belgium"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "China"
+  },
+  {
+    "name": "Hamburg",
+    "country": "Germany"
+  },
+  {
+    "name": "Ningbo-Zhoushan",
+    "country": "China"
+  },
+  {
+    "name": "Qingdao",
+    "country": "China"
+  },
+  {
+    "name": "Tanjung Priok",
+    "country": "Indonesia"
+  }
+]

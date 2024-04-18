@@ -1,0 +1,89 @@
+﻿@using AutoComplete_App.Models
+@rendermode InteractiveServer
+
+@inject AutoComplete_App.Services.CallApi CallApi
+
+<div class="form-group row">
+    <div class="col-4">
+    <label class="col-3"> Barang</label>
+        <input @bind="code" @bind:after="CodeFill" type="text" pattern="[0-9]*" maxlength="8" placeholder="Please Input Number Only" />
+            <label class="col-3"></label>
+            <textarea @bind="area" class="col-6" style="resize:none" disabled rows="3" />
+            <p>@urlCode</p>
+    </div>
+    <div class="form-group row">
+        <div class="col-4">
+            <label class="col-3"> Harga </label>
+            <input @bind="price" type="text" pattern="[0-9]*" maxlength="15" placeholder="1.500.000" />
+        </div>
+    </div>
+    <br />
+    <div class="form-group row my-3">
+        <div class="col-6">
+            <label class="col-3"> Tarif Bea masuk </label>
+            <input @bind="tax" @bind:after="CalculateTax" class="w-25" type="number" disabled /> %
+            <p>@urlTax</p>
+        </div>
+    </div>
+</div>
+
+@code {
+    string code = "";
+    string area = "";
+    string price = "";
+    string tax = "0";
+    string urlCode = "https://insw-dev.ilcs.co.id/n/barang?hs_code=";
+    string urlTax = "https://insw-dev.ilcs.co.id/n/tarif?hs_code=";
+    Inventory[] inventories;
+    TaxPrice[] taxPrices;
+
+    protected override async Task OnInitializedAsync()
+    {
+        CallApi.ReadInventoryList();
+        if(CallApi.Inventories != null)
+        {
+            inventories = CallApi.Inventories;
+        }
+        CallApi.ReadTaxList();
+        if(CallApi.TaxPrices != null)
+        {
+            taxPrices = CallApi.TaxPrices;
+        }
+    }
+
+    private void CodeFill()
+    {
+        bool codeFound = false;
+        if (code.Length == 8)
+        {
+            foreach(var i in inventories)
+            {
+                if (i.Code.Equals(code))
+                {
+                    codeFound = true;
+                    area = i.Category;
+                    urlCode = $"https://insw-dev.ilcs.co.id/n/barang?hs_code={code}";
+                    CalculateTax();
+                    return;
+                }
+            }
+        }
+        if (codeFound == false)
+        {
+            area = "Invalid Code";
+            urlCode = $"https://insw-dev.ilcs.co.id/n/barang?hs_code={code}";
+        }
+    }
+    private void CalculateTax()
+    {
+        foreach (var t in taxPrices)
+        {
+            if (code.Equals(t.Code))
+            {
+                tax = t.Tax.ToString();
+                urlTax = $"https://insw-dev.ilcs.co.id/n/tarif?hs_code={code}";
+                return;
+            }
+        }
+    }
+}
