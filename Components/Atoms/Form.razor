@@ -8,30 +8,45 @@
             <label class="col-sm-3 col-form-label">Negara</label>
             <div class="col-sm-6">
                 <input @bind="@Country" @bind:after="AutoFill" />
-                <p> @Country</p>
+                    <p> @UrlCountry </p>
             </div>
         </div>
     </div>
 </div>
 
 @code {
+    string negara = "";
     [Parameter]
     public string Country { get; set; }
 
     [Parameter]
     public EventCallback<string> CountryChanged { get; set; }
 
+    string[] names;
+
+    public string UrlCountry => $"https://insw-dev.ilcs.co.id/n/negara?ur_negara={Country}";
+
     protected override async Task OnInitializedAsync()
     {
         await CallApi.ReadCountry();
-    }
-
-    private async Task AutoFill()
-    {
-        if (Country.ToUpper().Equals("SIN"))
+        if (CallApi.Countries != null)
         {
-            await CountryChanged.InvokeAsync("SINGAPORE");
+            names = CallApi.Countries.Select(c => c.Name.ToUpper()).ToArray();
         }
     }
 
+    private void AutoFill()
+    {
+        Country = Country.ToUpper();
+        if(Country.Length >= 3)
+        {
+            foreach(string n in names)
+            {
+                if (n.Contains(Country))
+                {
+                    Country = n;
+                }
+            }
+        }
+    }
 }
