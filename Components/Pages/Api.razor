@@ -1,0 +1,11 @@
+﻿@page "/api"
+@rendermode InteractiveServer
+@using AutoComplete_App.Components.Atoms
+
+<PageTitle>API</PageTitle>
+
+<Form @bind-Country="country" />
+
+@code {
+    string country = "";
+}
