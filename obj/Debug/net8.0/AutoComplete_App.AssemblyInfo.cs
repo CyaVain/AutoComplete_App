@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoComplete_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df99e3dc2b1dc5e9cab31cc606098031177361cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38854366e68442536714317c8badae18a71076a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoComplete_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoComplete_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
