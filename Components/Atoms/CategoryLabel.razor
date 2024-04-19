@@ -8,13 +8,13 @@
     <label class="col-3"> Barang</label>
         <input @bind="code" @bind:after="CodeFill" type="text" pattern="[0-9]*" maxlength="8" placeholder="Please Input Number Only" />
             <label class="col-3"></label>
-            <textarea @bind="area" class="col-6" style="resize:none" disabled rows="3" />
+            <textarea @bind="area" class="col-6 my-2" style="resize:none" disabled rows="3" />
             <p>@urlCode</p>
     </div>
     <div class="form-group row">
         <div class="col-4">
             <label class="col-3"> Harga </label>
-            <input @bind="price" type="text" pattern="[0-9]*" maxlength="15" placeholder="1.500.000" />
+            <input @bind="price" @bind:after="TaxNominal" type="text" pattern="[0-9]" maxlength="15" placeholder="1.500.000" />
         </div>
     </div>
     <br />
@@ -22,7 +22,18 @@
         <div class="col-6">
             <label class="col-3"> Tarif Bea masuk </label>
             <input @bind="tax" @bind:after="CalculateTax" class="w-25" type="number" disabled /> %
-            <p>@urlTax</p>
+            <p class="mx-5"> @urlTax</p>
+            <div>
+                <label class="col-2"></label>
+                <input @bind="nominal" type="text" disabled />
+            </div>
+
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class=" col-6">
+            <label class="col-2"> Total Biaya </label>
+            <input @bind="total" @bind:after="TotalFee" class="col-4" type="text" disabled />
         </div>
     </div>
 </div>
@@ -32,6 +43,8 @@
     string area = "";
     string price = "";
     string tax = "0";
+    string nominal = "0";
+    string total = "0";
     string urlCode = "https://insw-dev.ilcs.co.id/n/barang?hs_code=";
     string urlTax = "https://insw-dev.ilcs.co.id/n/tarif?hs_code=";
     Inventory[] inventories;
@@ -51,10 +64,10 @@
         }
     }
 
-    private void CodeFill()
+    private async Task CodeFill()
     {
         bool codeFound = false;
-        if (code.Length == 8)
+        if (code.Length != 0)
         {
             foreach(var i in inventories)
             {
@@ -63,8 +76,6 @@
                     codeFound = true;
                     area = i.Category;
                     urlCode = $"https://insw-dev.ilcs.co.id/n/barang?hs_code={code}";
-                    CalculateTax();
-                    return;
                 }
             }
         }
@@ -73,17 +84,63 @@
             area = "Invalid Code";
             urlCode = $"https://insw-dev.ilcs.co.id/n/barang?hs_code={code}";
         }
+        await CalculateTax();
     }
-    private void CalculateTax()
+    private async Task CalculateTax()
     {
+        bool match = false;
         foreach (var t in taxPrices)
         {
             if (code.Equals(t.Code))
             {
+                match = true;
                 tax = t.Tax.ToString();
                 urlTax = $"https://insw-dev.ilcs.co.id/n/tarif?hs_code={code}";
-                return;
             }
+        }
+        if(match == false)
+        {
+            tax = "0";
+            urlTax = $"https://insw-dev.ilcs.co.id/n/tarif?hs_code={code}";
+        }
+        await TaxNominal();
+    }
+
+    private async Task TaxNominal()
+    {
+        if (!string.IsNullOrEmpty(price))
+        {
+            try
+            {
+                double convertedPrice = double.Parse(price.Replace(".", ""));
+                double taxCharge = double.Parse(tax) / 100;
+                convertedPrice *= taxCharge;
+                nominal = convertedPrice.ToString("N0");
+            }
+            catch(Exception e)
+            {
+                price = "0";
+            }
+        }
+        else
+        {
+            nominal = "0";
+        }
+        await TotalFee();
+    }
+
+    private async Task TotalFee()
+    {
+        try
+        {
+            double convertedPrice = double.Parse(price);
+            double convertedNominal = double.Parse(nominal);
+            convertedNominal += convertedPrice;
+            total = convertedNominal.ToString("N0");
+        }
+        catch(Exception e)
+        {
+            price = "";
         }
     }
 }
